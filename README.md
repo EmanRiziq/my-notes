@@ -12,6 +12,10 @@ This is **Bold Text**
 
 This is *Italic*
 
+This is ***Bold Italic***
+
+
+
 ACP stand for 
 - A for `git add . `
 - C for ` git commit -m " my-note" `
@@ -44,3 +48,10 @@ The key points that every developer must master:
 23. Self-Development
 24. Don’t be a hero
 25. Don’t Ask Questions… Ask For Help
+
+
+
+![](https://miro.medium.com/max/1187/1*0FqDC0_r1f5xFz3IywLYRA.jpeg)
+
+
+[Follow me :)](https://github.com/EmanRiziq)
